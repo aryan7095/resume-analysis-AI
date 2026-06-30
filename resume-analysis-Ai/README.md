@@ -139,27 +139,7 @@
 └── vercel.json
 
 ```
-## 🔌 API Endpoints      
-All the API enpoints for the project is mentioned below :  
 
-### 🔐 Auth Routes    
-| Method | Endpoint            | Description                |
-| ------ | ------------------- | -------------------------- |
-| POST   | /api/auth/register  | Register user              |
-| POST   | /api/auth/login     | Login user                 |
-| GET   | /api/auth/get-me   | Get current user (Protected) |
-| GET   | /api/auth/logout    | Logout User |
-
-###📊 Interview Routes  
-| Method | Endpoint            | Description                |
-| ------ | ------------------- | -------------------------- |
-| POST   | /api/interview/  | Generate Interview Report              |
-| POST   | /api/interview/report/:interviewId     | Get specific report|
-| GET   | /api/interview/   | Get all reports |
-| GET   | /api/interview/resume/pdf/:id    | Generate resume PDF |
-
-## Postman Collection 🧪  
-[Postman Collection for the APIs of this particular project](https://www.postman.com/atechnical8-6486544/workspace/gen-ai)  
 
 ## 🛠️Tech Stack
 ### **🖥️ Frontend**  
