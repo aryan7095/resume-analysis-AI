@@ -33,16 +33,7 @@
   - Resume PDF generation
 
 
-## ⚙️ System Architecture
 
-### 🔹 Input → AI Processing → Output
-
-![Architecture](https://ik.imagekit.io/gwv0quzrfq/readme%20assets/AI%20Functions%20Architecture.png)
-
-
-### 🔹 PDF Generation Flow
-
-![PDF Flow](https://ik.imagekit.io/gwv0quzrfq/readme%20assets/Prompt%20to%20pdf.png)
 
 ## ✨ Features
 
@@ -187,48 +178,8 @@ All the API enpoints for the project is mentioned below :
 - pdf-parse (Resume Parsing)  
 - Puppeteer (HTML → PDF)
 
-## 🧑‍💻 Installation
-**1️⃣ Clone Repo**
-```
-git clone https://github.com/your-username/review-ai.git
-cd review-ai
-```
-**2️⃣ Backend Setup**
-```
-cd Backend
-npm install
-npm run dev
-```
-**3️⃣ Frontend Setup**
-```
-cd Frontend
-npm install
-npm run dev
-```
-## 🔑 Environment Variables
 
-Create .env in Backend:
-```
-PORT=5000
-MONGO_URI=your_mongodb_uri
-JWT_SECRET=your_secret
-GEMINI_API_KEY=your_api_key
-```
-## 📸 Screenshots
-### Register
-![Register](https://ik.imagekit.io/gwv0quzrfq/readme%20assets/ReviewAI/register.png)
-### Login
-![Login](https://ik.imagekit.io/gwv0quzrfq/readme%20assets/ReviewAI/Login.png)
-### Home
-![Home](https://ik.imagekit.io/gwv0quzrfq/readme%20assets/ReviewAI/Home.png)
-### DashBoards
-![Technical Questions](https://ik.imagekit.io/gwv0quzrfq/readme%20assets/ReviewAI/Technical.png)
-![Behavioral Questions](https://ik.imagekit.io/gwv0quzrfq/readme%20assets/ReviewAI/Behavioral.png)
-![Preparation Roadmap](https://ik.imagekit.io/gwv0quzrfq/readme%20assets/ReviewAI/Roadmap.png)
 
-## 📄 Resume Generated
-![Generated Resume Page 1](https://ik.imagekit.io/gwv0quzrfq/readme%20assets/ReviewAI/resume%20p1.png)
-![Generated Resume Page 2](https://ik.imagekit.io/gwv0quzrfq/readme%20assets/ReviewAI/resumep2.png)
 ## 📈 Future Improvements
 - 📊 ATS Score Simulation
 - 🎯 Role-specific preparation plans
@@ -239,12 +190,6 @@ GEMINI_API_KEY=your_api_key
 
 Pull requests are welcome. For major changes, open an issue first.
 
-## 🧑‍💼 Author
-
-Akarsh Singh  
-🔗 GitHub: https://github.com/NotJustAkarsh  
-
-🔗 LinkedIn: https://www.linkedin.com/in/akarsh-singh-5968071b2  
 
 ## ⭐ Support
 
